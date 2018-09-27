@@ -13,8 +13,8 @@ BriteBox can be configured to display:
 *Note: see roadmap for upcoming features*
 
 ## Roadmap
-- [] Custom Message
-- [] Weather API
-- [] Stockmarket API
+- [ ] Custom Message
+- [ ] Weather API
+- [ ] Stockmarket API
 - [x] Display time
 - [x] Display date
