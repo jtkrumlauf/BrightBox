@@ -2,9 +2,9 @@
 
 BrightBox is a collection of utilities you can use on a 32x32 LED matrix!
 
-## Installation
+## Photos
 
-TBA
+Photos can be found here: https://justinkrumlauf.me/gallery/brightbox_photos
 
 ## Configurations
 BriteBox can be configured to display:
